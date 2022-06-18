@@ -1,2 +1,2 @@
-# Emojipedia
+# MappingComponentsEmoji
 Created with CodeSandbox
